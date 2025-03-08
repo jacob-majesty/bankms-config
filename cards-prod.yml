@@ -4,6 +4,7 @@ build:
 
 cards:
   message: "Welcome to the Bank cards related webhook APIs "
+  # Use github webhook with hookdeck (https://console.hookdeck.com/) for automation
   contactDetails:
     name: "Sandra - Product Owner"
     email: "sandra@bank.com"
